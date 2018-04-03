@@ -24,3 +24,4 @@ However, getting the commands correct to revert was a bit tricky, especially sin
 
 What I found from this is that I am not the only one who has faced this issue, and I am also alarmed by how problematic using a visual git manager like on Visual Studio Code, as well as Git Bash together can be if you do not pay attention. Miscommunications or unfamiliarity with one or the other can really screw up your day like it did to mine. Late night git force pushes aren't something I will be trifling with again. 
 
+Update: Since writing that "I won't be trifiling with git late at night," I continued doing just that, fixing the file system, trying to remove residual git trackers, and I don't think I will learn my lesson easily. 
