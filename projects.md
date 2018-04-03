@@ -18,6 +18,10 @@ A functioning payment page using Stripe. Payments will not go through, so feel f
 
 A simple platforming game made with Javascript. Use arrowkeys to move. 
 
+### [Value Proposition Creator](https://sidhantmathur.github.io/valueprop-creator/)
+
+Value proposition creator made with Vue. Uses [these SVGs](https://github.com/sidhantmathur/ValueProp-SVGs) I made for it. 
+
 ### [Peruzer](https://sidhantmathur.github.io/Peruzer/)
 
 A fictional start-up website with a randomized clickable button. 
