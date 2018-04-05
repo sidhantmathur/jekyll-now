@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git Troubles"
+title:  "I Git in Trouble"
 date:   2018-04-02 02:00:00 -0600
 categories: programming
 comments: true
