@@ -102,8 +102,6 @@ China, Theil argues, is a pessimistic society but with defined plans. They know 
 
 What's interesting is Japan's place in this. Theil said that Japan used to occupy this position; they relentlessly copied the United States in every facet. Japan took denim, technology, manufacturing from the USA and the West. Now, however, Japan seems completely uninterested in the USA. Japanese denim is the best in the world. Japanese technology is very different than American, same with cars, programming, and television. Golf used to be hugely popular in the 80s in Japan, now the golf courses are being turned into solar farms. Theil thinks that this is a disturbing sign of the stagnation of the West. We used to think that it was OK for Japan to copy us because while they were busy copying, we'd be moving on to the next thing. Now, however, they've caught up, and they've found nothing more that we provide. The Western world is no longer far ahead. 
 
-![SpaceX](https://images.pexels.com/photos/60132/pexels-photo-60132.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb)
-
 ### Definite Optimism
 
 Theil reminisces for the USA of the 50s and 60s. John F. Kennedy said that we would reach the moon in 10 years, and we did it. People made huge, ambitious, audacious plans and then went out and tried to complete them. Nowadays we'll have experts saying that everything is impossible or infeasible. The thing is; the experts are right 99% of the time; that's why they're experts. This is the problem with our society though; if we only do the feasible we'll never do anything truly great or amazing. Greatness comes from doing what's unthinkable, not what we say "yeah we should do that next" to. 
