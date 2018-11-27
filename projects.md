@@ -4,9 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Business Projects
-
-College coursework and my internship project at Dell. 
+See code for relevant projects on [Github](https://github.com/sidhantmathur?tab=repositories) and view some smaller projects on my [old portfolio](https://sidhantmathur.github.io/bootstrapportfolio/). There's a mixture of college coursework, my internship project, and personal ideas. 
 
 ### Machine Learning Customer Targeting Tool (Dell)
 
@@ -20,11 +18,8 @@ Marketing plan for local pizzeria. I focused on data analysis, and built an inte
 
 [![Video Link](images/map1.PNG)](https://youtu.be/pTh-VVAm5oo?t=13)
 [Presentation w/ Map](images/marketingpresentation.pdf)
+
 [Paper w/ Data Analysis](images/marketingplan.pdf)
-
-# Programming Projects
-
-See all my code on [Github](https://github.com/sidhantmathur?tab=repositories) and view some smaller projects on my [old portfolio](https://sidhantmathur.github.io/bootstrapportfolio/).
 
 ### [Research Manager](https://research-participant-tracker.firebaseapp.com/#/)
 
