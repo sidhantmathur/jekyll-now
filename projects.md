@@ -6,7 +6,7 @@ permalink: /projects/
 
 See code for relevant projects on [Github](https://github.com/sidhantmathur?tab=repositories) and view some smaller projects on my [old portfolio](https://sidhantmathur.github.io/bootstrapportfolio/). There's a mixture of college coursework, my internship project, and personal ideas. 
 
-## Machine Learning Customer Targeting Tool (Dell)
+## Machine Learning Targeting Tool (Dell)
 
 ![Model Accuracy Results](images/roc.PNG)
 
