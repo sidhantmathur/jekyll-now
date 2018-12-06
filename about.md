@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Hello, my name is Sidhant. I am an Entrepreneurship Student at the University of Texas at Dallas with a passion for programming, data science, and entrepreneurship. Here's a link to my resume: 
+Hello, my name is Sidhant. I am an Entrepreneurship Student at the University of Texas at Dallas with a passion for programming, data science, and entrepreneurship. Here's my [resume](images/resume.pdf): 
 
 [![Resume](images/personalresume.png)](images/resume.pdf)
 
