@@ -7,7 +7,7 @@ permalink: /about/
 
 Hello, my name is Sidhant. I am an Entrepreneurship Student at the University of Texas at Dallas with a passion for programming, data science, and entrepreneurship. Here's my [resume](images/resume.pdf): 
 
-[![Resume](images/personalresume.png)](images/resume.pdf)
+[![Resume](images/personalresume.png)](https://sidhantmathur.github.io/images/resume.pdf)
 
 I was born in New Delhi, India, but my parents moved to Toronto, Canada when I was three-years-old. I lived in Toronto for thirteen years before moving to Austin, Texas. I went to Vandegrift Highschool for three years in Austin before coming here to UT Dallas for my undergraduate degree in business administration. 
 
