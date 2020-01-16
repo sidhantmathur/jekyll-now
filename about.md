@@ -19,6 +19,6 @@ During the summer of 2018, I interned at Dell in the commercial "center of compe
 
 ![Dell](images/dell.png)
 
-In my free time, I have a multitude of hobbies and interests. I am an avid self-taught programmer, and I've worked on personal projects, as well as for clients here in Dallas. I enjoy reading books about business, but sci-fi and fantasy are a lot more fun. I also play basketball a few times a week to keep my skills sharp and continue learning. Learning new skills is one of the things I enjoy the most, and if it's not something that will help me professionally, at least it'll help me on the court. 
+In my free time, I have a multitude of hobbies and interests. I am an avid self-taught programmer, and I've worked on personal projects, as well as for clients here in Dallas. I enjoy reading books about business, but sci-fi and fantasy are a lot more fun. I also play basketball a few times a week to keep my skills sharp and continue learning. Learning new skills is my favourite thing to do, whether it's for professional development or just for fun. 
 
 ![Drinking Coffee & Working](images/collage.png)
